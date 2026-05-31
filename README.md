@@ -18,5 +18,5 @@ This project is a corporate services website developed as a front-end practice p
 This project demonstrates my ability to build real-world website layouts and structure front-end pages.
 
 ## Author
-Seyed Mahdi Mousavi
+Mahdi Mousavi
 Front-End Developer (Junior)
